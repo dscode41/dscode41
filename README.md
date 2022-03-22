@@ -1,4 +1,4 @@
-## Tudo bem? Eu sou o Douglas Maciel 
+## Prazer, Douglas Maciel =)
 
 - 🔭 Trabalho hoje com vendas físicas e online
 - 🌱 Estudando HTML, CSS e JavaScript
