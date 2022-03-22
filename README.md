@@ -1,14 +1,15 @@
-## Olá, tudo bem? Eu sou o Douglas Maciel ^^
+## Tudo bem? Eu sou o Douglas Maciel 
 
-- 🔭 Trabalho hoje com vendas online
+- 🔭 Trabalho hoje com vendas físicas e online
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no email: douglas_maciel@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div align="left">
+ 
   <a href="https://github.com/dscode41">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dscode41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscode&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
   
   <div style="display: inline_block"><br>
